@@ -221,13 +221,7 @@ We experimented with multiple approaches before achieving optimal results:
 - Minimal performance difference between male/female samples
 - Fair and unbiased predictions
 
-## 👥 Team
 
-**Pattern Recognition and Machine Learning Course Project**
-
-- **Amit Anil Kamble** - CS23B2034
-- **Jatin Goyal** - CS23B2045
-- **Sumit Kumar** - CS23B2008
 
 **Guided By:**  
 Dr. Umarani Jayaraman, Assistant Professor
@@ -239,9 +233,6 @@ Dr. Umarani Jayaraman, Assistant Professor
 - **TensorFlow** team for the deep learning framework
 - Course instructors and peers for valuable feedback
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📚 References
 
@@ -249,11 +240,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 2. Chollet, F. (2017). "Xception: Deep Learning with Depthwise Separable Convolutions." *CVPR*.
 3. Selvaraju, R. R., et al. (2017). "Grad-CAM: Visual Explanations from Deep Networks." *ICCV*.
 
-## 📧 Contact
-
-For questions or collaborations:
-- GitHub: [@AmitAK1](https://github.com/AmitAK1)
-- Email: cs23b2034@iiitdm.ac.in
 
 ---
 
