@@ -157,33 +157,7 @@ img = np.expand_dims(img, axis=0)
 gender = 1  # male
 prediction = model.predict([img, np.array([[gender]])])
 print(f"Predicted Bone Age: {prediction[0][0]:.2f} months")
-```
 
-## 📂 Project Structure
-
-```
-bone-age-estimation/
-│
-├── Bone_Age_Prediction_Xception_FINAL.ipynb  # Main implementation notebook
-├── README.md                                   # Project documentation
-├── requirements.txt                            # Python dependencies
-├── .gitignore                                  # Git ignore rules
-│
-├── Bone_age_prediction/                        # Output visualizations
-│   ├── training_history.png                    # Training curves
-│   ├── prediction_scatter.png                  # Predicted vs actual
-│   ├── confusion_matrix.png                    # Classification results
-│   └── gradcam_*.png                           # Grad-CAM visualizations
-│
-├── docs/                                       # Documentation files
-│   ├── Bone_Age_Report_Fixed.tex              # LaTeX report source
-│   ├── Bone_Age_Presentation.tex              # LaTeX presentation
-│   ├── PRML_COURSE_PROJECT_Final.pdf          # Final report PDF
-│   └── PRML_PROJECT_PRESENTATION.pdf          # Presentation slides
-│
-└── models/                                     # Saved model weights
-    └── best_xception_model.h5                 # Best trained model
-```
 
 ## 📈 Results
 
