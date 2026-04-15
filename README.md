@@ -4,7 +4,6 @@ A deep learning-based system for automated pediatric bone age estimation using h
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## 📋 Table of Contents
 - [Overview](#overview)
